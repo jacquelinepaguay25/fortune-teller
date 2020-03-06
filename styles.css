@@ -1,0 +1,25 @@
+body{text-align:center;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV_45VFMQ1SnBiyA0SV-O0VFFBjXvZDVLit6iGbdFiNSP9mP68");
+}
+h1{color:MediumOrchid;
+font-family: 'Yeon Sung';
+font-size:40px;
+}
+h2{color: white;}
+
+button{background-color: #008CBA;
+font-size: 16px;
+padding: 12px 28px;
+border-radius: 4px;
+transition-duration: 0.4s;
+margin-top:20px;
+}
+.click:hover {
+  background-color: pink;
+  color: white;
+}
+input{font-size: 20px;}
+.image1{display:none;
+    width:300px;}
+p{color:white;
+font-size:30px;}
